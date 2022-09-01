@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = 'localhost';
-$dbuser = 'ultimate';
+$dbhost = 'github.io';
+$dbuser = 'amrbhery';
 $dbpass = 'ultimate';
-$dbname = 'ultimate';
+$dbname = 'amrbhery.github.io';
 $dbtable_prefix = ''; // default empty
 $dbtable_shortlink_pool_prefix = ''; // default empty
 $display_errors = true; // change to false once installed and tested
