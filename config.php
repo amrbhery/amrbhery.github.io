@@ -1,6 +1,6 @@
 <?php
 
-$dbhost = 'github.io';
+$dbhost = 'github.com';
 $dbuser = 'amrbhery';
 $dbpass = 'ultimate';
 $dbname = 'amrbhery.github.io';
